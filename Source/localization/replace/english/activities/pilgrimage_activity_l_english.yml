@@ -16,10 +16,10 @@
  activity_pilgrimage_special_type_bar_pilgrimage_xp_2:0 "#z [EmptyScope.ScriptValue('pilgrimage_high_pious_trait_xp_value')|0]#!"
  activity_pilgrimage_special_type_bar_pilgrimage_xp_3:0 "#z [EmptyScope.ScriptValue('pilgrimage_perfect_pious_trait_xp_value')|0]#!"
  #Pious Flavor
- activity_pilgrimage_special_type_bar_pious_flavor_0:0 "It is the least we can do to appease [GetPlayer.GetFaith.PantheonTerm]."
- activity_pilgrimage_special_type_bar_pious_flavor_1:0 "The divine smiles upon me."
- activity_pilgrimage_special_type_bar_pious_flavor_2:0 "I have almost transcended."
- activity_pilgrimage_special_type_bar_pious_flavor_3:0 "My spirit and the divine are one."
+ activity_pilgrimage_special_type_bar_pious_flavor_0:0 "Це найменше, що ми можемо зробити, щоб заспокоїти [GetPlayer.GetFaith.PantheonTerm]."
+ activity_pilgrimage_special_type_bar_pious_flavor_1:0 "Божественне посміхається мені."
+ activity_pilgrimage_special_type_bar_pious_flavor_2:0 "Я майже переступив межу."
+ activity_pilgrimage_special_type_bar_pious_flavor_3:0 "Мій дух і божественне - одне ціле."
 
  #Worldly Reward
  activity_pilgrimage_special_type_bar_worldly_reward_0:0 "$BULLET_WITH_TAB$[cultural_acceptance_i][cultural_acceptance|E] Activity Reward: #p +[EmptyScope.ScriptValue('pilgrimage_low_worldly_acceptance_value')|0]%#!"
@@ -32,13 +32,13 @@
  activity_pilgrimage_special_type_bar_worldly_modifier_2:0 "$BULLET_WITH_TAB$[GetModifier( 'pilgrimage_high_worldly_reward_modifier' ).GetNameWithTooltip|L]"
  activity_pilgrimage_special_type_bar_worldly_modifier_3:0 "$BULLET_WITH_TAB$[GetModifier( 'pilgrimage_perfect_worldly_reward_modifier' ).GetNameWithTooltip|L]"
  #Worldly Flavor
- activity_pilgrimage_special_type_bar_worldly_flavor_0:0 "See other cultures, I must."
- activity_pilgrimage_special_type_bar_worldly_flavor_1:0 "There are so many fantastic sights left."
- activity_pilgrimage_special_type_bar_worldly_flavor_2:0 "We have experienced so many things!"
- activity_pilgrimage_special_type_bar_worldly_flavor_3:0 "I have tasted the world."
+ activity_pilgrimage_special_type_bar_worldly_flavor_0:0 "Я повинен бачити інші культури."
+ activity_pilgrimage_special_type_bar_worldly_flavor_1:0 "Тут залишилося так багато фантастичних пам‘яток."
+ activity_pilgrimage_special_type_bar_worldly_flavor_2:0 "Ми пережили стільки всього!"
+ activity_pilgrimage_special_type_bar_worldly_flavor_3:0 "Я відчув смак світу."
  
 
- pilgrimage_cultural_spread:0 "Pilgrims Spreading Acceptance"
+ pilgrimage_cultural_spread:0 "Паломники Поширюють Прийняття"
  #Activity Pulse Actions:
  apa_preaching_wrath_of_god_title:0 "[first.GetShortUIName|U] Preached the Wrath of [first.GetFaith.HighGodName]"
  apa_studying_scripture_title:0 "[first.GetShortUIName|U] Studied Scripture"
